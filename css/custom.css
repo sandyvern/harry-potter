@@ -8,3 +8,9 @@ body {
 h1 {
 	font-family: 'Pirata One', cursive;
 }
+
+.navbar-brand {
+	font-family: 'Pirata One', cursive;
+	font-size: 2em;
+	font-weight: bold;
+}

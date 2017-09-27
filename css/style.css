@@ -1,0 +1,130 @@
+/*OVERALL*/
+* {
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+}
+
+/*NAVIGATION*/
+.navbar {
+    position: relative;
+	min-height: 50px;
+	margin-bottom: 20px;
+}
+
+#navigation {
+    font-size: 17px;
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+.navbar-brand {
+	margin: -25px;
+}
+
+.logo {
+    margin-top: 0px ;
+    max-width: 10%;
+}
+
+#logo {
+    margin-top: 0px;
+    margin-left: -30px;
+    max-width: 18%;
+}
+
+
+.navbar-nav >li >a {
+    font-family: 'Josefin Sans', sans-serif ;
+    color: white;
+    text-align: right;
+}
+
+.form-control {
+    margin-top: 8px;
+}
+
+#main-nav-menu {
+    justify-content: flex-end;
+}
+
+/*CAROUSEL INNER*/
+#myCarousel {
+	
+}
+
+.carousel-inner {
+	max-height: 700px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#carousel-images {
+    max-height: 700px;
+}
+
+/*ARTICLES*/
+#theTabs {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.articles {
+    font-family: 'Playfair Display', serif;
+	margin: 30px 20px 20px;
+    padding: 10px 20px; 
+    border-top: 8px solid;
+    border-bottom: 8px solid;
+
+}
+
+.article-text {
+    font-size: 20px;
+    font-family:
+}
+
+.photo-caption {
+    text-align: center;
+}
+.image-companions {
+    max-width: 50%;
+}
+
+
+/*FANDOM*/
+#fandom {
+    padding-bottom: 20px;
+    border-bottom: 8px solid;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.source {
+    margin-top: 5px;
+}
+
+/*FOOTER*/
+
+
+#footer {
+    font-family: 'Josefin Sans', sans-serif;
+	background-color: #eee;
+	padding-top: 20px;
+	border-top: 2px solid shadow;
+}
+
+.red {
+    color: red;
+}
+
+.github {
+    color: black;
+}
